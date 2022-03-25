@@ -1,3 +1,3 @@
-# Demo
+#Hogwarts Bot
 
 some description!
