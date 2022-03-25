@@ -19,3 +19,5 @@ The commands used the bot are as follows:
 12.spell_game: Pull up a random spell of the wizarding world
 13.ping: Potrays the lag in messages provided by the muggle world
 
+Do check the images_final file as well to get the idea of the look of the bot
+Thanks
